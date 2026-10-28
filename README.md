@@ -22,6 +22,4 @@ A simple pricing card featuring a subscription plan, pricing details, key featur
 ### 👨‍💻 Author
 **Bazil Ubab**
 
-*Learning, building, and growing as a Front-End Developer. 🚀*
-
-⭐ If you like this project, consider giving it a star!
+*Learning, building, and growi
