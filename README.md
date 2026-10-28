@@ -1,25 +1,22 @@
 # 💳 Pricing Card UI
 
-A clean and modern **Pricing Card** built with HTML and Tailwind CSS. ✨
+A clean and modern pricing card built with HTML & Tailwind CSS. ✨
 
-🔗 **Live Demo:** bazil-cardlab.vercel.app
+🔗 **Live Demo:** [View Website](https://bazil-cardlab.vercel.app)
 
 ## ✨ Features
 - 🎨 Modern and minimal design
 - 💰 Clean pricing layout
-- 🖱️ Smooth hover effects
+- 🖱️ Hover effects
 - 📱 Responsive-friendly styling
 
 ## 🛠️ Built With
 - HTML5
 - Tailwind CSS
 
-## 📸 Preview
-A simple pricing card featuring a subscription plan, pricing details, key features, and a call-to-action button.
-
 ---
 
 ### 👨‍💻 Author
 **Bazil Ubab**
 
-*Learning, building, and growi
+*Learning, building, and growing as a Front-End Developer. 🚀*
